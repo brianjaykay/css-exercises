@@ -37,10 +37,10 @@ body {
 
 .container {
   display: flex;
-  justify-content: center;
-  gap: 52px;
+  /* justify-content: center; */
+  /* gap: 52px; */
 }
 
 .info {
-  max-width: 200px;
+  /*max-width: 200px;
 }
